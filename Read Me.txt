@@ -13,5 +13,5 @@
 |                                                                               |
 |	1. github.com/JJL0rtez/Stonetown-Karate-Manual (Manual Files)           |
 |	2. stonetownkarate.ca/                         (Stonetown Karate sites) |
-|	3.					       (Manual Progress Tracker)|
+|	3. app.clickup.com/2231598/d/b?p=4316722&c=8515769&s=17068225(Manual Progress Tracker)|
 |-------------------------------------------------------------------------------|
