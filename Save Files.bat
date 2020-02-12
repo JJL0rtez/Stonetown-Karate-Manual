@@ -5,16 +5,15 @@ echo # |       Stonetown-Karate-Manual       |
 echo # |-------------------------------------|
 echo # |-------------------------------------|
 echo.
-git status
-git add .
-git status
-git commit -m "Update from Save Data batch"
-git status
-git push --all
-git status
+call git status
+call git add .
+call git status
+call git commit -m "Update from Save Data batch"
+call git status
+call git push --all
+call git status
 echo.
 echo # |------------------------------------|
 echo # |                Done                |
 echo # |------------------------------------|
 echo.
-@pause
