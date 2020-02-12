@@ -11,10 +11,10 @@ call git status
 call git commit -m "Update from Save Data batch"
 call git status
 call git push --all
-call git status
 echo.
 echo # ------------------------------------
-echo #                 Done                
+echo #                 Done
+call git status                
 echo # ------------------------------------
 echo.
 @pause
