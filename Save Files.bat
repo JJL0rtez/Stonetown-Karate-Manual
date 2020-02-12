@@ -1,3 +1,4 @@
+echo "# Stonetown-Karate-Manual"
 call git status
 call git add .
 call git status
