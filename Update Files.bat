@@ -1,12 +1,15 @@
 echo off
-echo "# Stonetown-Karate-Manual UPDATE"
+echo # -------------------------------------
+echo # -------------------------------------
+echo #        Stonetown-Karate-Manual       
+echo # -------------------------------------
+echo # -------------------------------------
 call git status
 call git pull upstream master
 echo.
 echo # --------------------------------------
-echo.
-echo # Done
-echo.
+echo #                 Done
+call git status
 echo # --------------------------------------
 echo.
 @pause
