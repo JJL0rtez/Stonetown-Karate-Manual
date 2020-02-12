@@ -5,7 +5,7 @@ echo #        Stonetown-Karate-Manual
 echo # -------------------------------------
 echo # -------------------------------------
 call git status
-call git pull upstream master
+call git pull --all
 echo.
 echo # --------------------------------------
 echo #                 Done
