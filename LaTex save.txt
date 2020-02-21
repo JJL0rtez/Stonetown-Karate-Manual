@@ -1,5 +1,0 @@
-\fancyhf{}
-\fancyhead[LE,RO]{Overleaf}
-\fancyhead[RE,LO]{Guides and tutorials}
-\fancyfoot[CE,CO]{\leftmark}
-\fancyfoot[LE,RO]{\thepage}
